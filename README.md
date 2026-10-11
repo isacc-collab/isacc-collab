@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Isaccrainysonjenofer J. 👋
 
-<!--
-**isacc-collab/isacc-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student | Cybersecurity
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🌱 Learning Java, Python, web development, and cybersecurity.
+- 💻 Building practical programming projects.
+- 🎯 Improving my skills through hands-on practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+- Java
+- Python
+- HTML & CSS
+- JavaScript
+- MySQL
+
+## 🚀 Featured Project
+
+### Student Result Calculator
+A Java Swing desktop application that calculates student marks, averages, grades, and subject-wise results.
+
+🔗 [View Project](https://github.com/isacc-collab/Student-Result-Calculator)
+
+## 🌱 Currently Learning
+- Object-oriented programming
+- Full-stack web development
+- Cybersecurity fundamentals
+
+## 📫 Connect With Me
+- GitHub: [@isacc-collab](https://github.com/isacc-collab)
